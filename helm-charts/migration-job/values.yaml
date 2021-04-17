@@ -1,0 +1,6 @@
+image:
+  repository: mytodoapp-migration
+  tag: "v1"
+
+nodeSelector:
+  beta.kubernetes.io/os: linux
